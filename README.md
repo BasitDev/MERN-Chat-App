@@ -4,7 +4,7 @@ End-to-end chat application using (MERN stack + Socket.Io)
 
 # Requirement
 
-install npm
+npm i
 
 # Installation
 
